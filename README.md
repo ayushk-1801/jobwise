@@ -167,9 +167,3 @@ jobwise/
 ## Demo
 
 Live demo: [https://jobwise-hiring.vercel.app/](https://jobwise-hiring.vercel.app/)
-
-## Screenshots
-
-![Landing Page](./homepage1.png)
-![Home page user](./homepage2.png)
-![Resume Optimisation](./opti.png)
