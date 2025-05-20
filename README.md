@@ -98,8 +98,8 @@ jobwise/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/ayushk-1801/cvision
-   cd cvision
+   git clone https://github.com/ayushk-1801/jobwise
+   cd jobwise
    ```
 
 2. **Install dependencies:**
